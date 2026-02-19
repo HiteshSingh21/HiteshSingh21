@@ -1,77 +1,123 @@
-<div align="center">
-  <img src="["https://capsule-render.vercel.app/render?type=waving&color=0:2c3e50,100:4ca1af&height=200&section=header&text=Kartikeya%20Trivedi&fontSize=50&animation=fadeIn&fontColor=ffffff"](https://camo.githubusercontent.com/6d3132c82604fa9c60b8c981ff7a6bbf5029b04b2f66fcc9cf40552b16df4ce6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d303a3746374644352c35303a3836413845372c3130303a393145414534266865696768743d3232302673656374696f6e3d686561646572)" />
+<!-- ================= HEADER ================= -->
 
-  ## ⚡ AI Engineer • Agentic Systems • Realtime GenAI • MLOps
-  **FastAPI | Agno | PyTorch | FFmpeg**
+<h1 align="center">⚡ Hi, I'm Hitesh Singh</h1>
 
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kartikeyatrivedi@outlook.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeyatrivedi)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kartikeya-trivedi)
-  [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
-  📍 **Lucknow, India** | 📞 **+91 8957907776**
+<p align="center">
+  💻 AI & ML Enthusiast • Backend Developer • Systems Learner • GSoC Aspirant
+</p>
 
-  <br/>
-
-  ![Profile views](https://gpvc.arturio.dev/Kartikeya-trivedi)
-  <a href="https://github.com/Kartikeya-trivedi">
-    <img src="https://img.shields.io/github/followers/Kartikeya-trivedi?label=Followers&style=social" />
-  </a>
-  <a href="https://github.com/Kartikeya-trivedi">
-    <img src="https://img.shields.io/github/stars/Kartikeya-trivedi?label=Stars&style=social" />
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
+  <a href="https://github.com/YOUR_USERNAME">🐙 GitHub</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+<!-- ================= TYPING ANIMATION ================= -->
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-> **Agentic Frameworks:** Agno, Modal | **Media:** FFmpeg, ElevenLabs TTS, Kokoro TTS | **Realtime:** WebSockets
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Backend+Developer;GSoC+2026+Focused;Building+Real+World+Projects" />
+</p>
 
 ---
 
-### 🏆 Recent Wins
-* 💰 **Secured a $500 Modal grant** + $30/month credits for scalable AI infra.
-* 🥇 **Hackathon Winner** with "Professor Peter" (FastAPI + FFmpeg + ElevenLabs TTS).
-* 🎙️ **Ran ML workshop** on Agno agent framework and hosted "Captcha the Impostor" event.
+## 🧠 About Me
+
+🚀 Passionate about building intelligent systems and scalable backend architectures  
+📚 Currently learning **Advanced AI Systems + System Design**  
+🎯 Goal: Contribute to Open Source & Crack GSoC  
+⚡ Love solving real-world problems with code  
 
 ---
 
-### 💎 Featured Projects
-* **CodeShiftAI** — Realtime AI coding assistant (VS Code • FastAPI • Agno)
-* **Professor Peter** — AI video educator (FastAPI • FFmpeg • ElevenLabs)
-* **ForgeTube** — Script-to-video pipeline (SD prompts • FFmpeg • Kokoro TTS)
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c)
+
+### ⚙️ Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-111?style=for-the-badge&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
 
 ---
 
-### 🚀 Highlights
-* **Realtime AI coding assistant** with vector context and streaming UX.
-* **Script-to-video engine** with Stable Diffusion prompts, TTS sync, and auto-rendering.
-* **Production-grade APIs**, WebSockets, and media pipelines.
+## 🏆 Current Focus
+
+✅ Building AI powered projects  
+✅ Preparing for GSoC  
+✅ Strengthening DSA + System Design  
+✅ Learning MLOps  
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartikeya-trivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikeya-trivedi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+## 💎 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikeya-trivedi&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</div>
+### 🤖 AI Learning Platform
+Gamified learning system with leaderboard & achievements  
+
+### 📊 ML Prediction API
+Production ready ML model deployment with FastAPI  
+
+### 🧠 Intelligent Chat System
+Context aware chatbot with memory  
 
 ---
 
-### 📫 Reach Me
-* **Email:** [kartikeyatrivedi@outlook.com](mailto:kartikeyatrivedi@outlook.com)
-* **LinkedIn:** [linkedin.com/in/kartikeyatrivedi](https://linkedin.com/in/kartikeyatrivedi)
+## 🚀 Highlights
+
+⚡ Real-time APIs  
+📊 Data pipelines  
+🧠 ML experimentation  
+🔌 Backend architecture  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+🚀 Get selected in GSoC  
+🧠 Build production AI system  
+📚 Master system design  
+💼 Land top tech internship  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="mailto:yourmail@gmail.com">Email</a> •
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+</p>
+
+---
+
+⭐️ From [Hitesh Singh](https://github.com/YOUR_USERNAME)
