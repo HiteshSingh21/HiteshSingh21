@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:2c3e50,100:4ca1af&height=200&section=header&text=Kartikeya%20Trivedi&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="["https://capsule-render.vercel.app/render?type=waving&color=0:2c3e50,100:4ca1af&height=200&section=header&text=Kartikeya%20Trivedi&fontSize=50&animation=fadeIn&fontColor=ffffff"](https://camo.githubusercontent.com/6d3132c82604fa9c60b8c981ff7a6bbf5029b04b2f66fcc9cf40552b16df4ce6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d303a3746374644352c35303a3836413845372c3130303a393145414534266865696768743d3232302673656374696f6e3d686561646572)" />
 
   ## ⚡ AI Engineer • Agentic Systems • Realtime GenAI • MLOps
   **FastAPI | Agno | PyTorch | FFmpeg**
