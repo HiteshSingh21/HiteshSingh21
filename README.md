@@ -1,3 +1,14 @@
+
+<h1 align="center"> Hitesh Singh </h1>
+
+<p align="center">
+  AI Engineer • Agentic Systems • Realtime GenAI • DevOps
+</p>
+
+<p align="center">
+  <b>FastAPI</b> | <b>Agno</b> | <b>PyTorch</b> | <b>FFmpeg</b>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=0f172a&height=220&section=header&text=Hitesh%20Singh&fontSize=80&animation=fadeIn&fontColor=ffffff&desc=Senior%20AI%20Engineering%20Partner%20%7C%20Agentic%20Systems%20Architect&descFontSize=25" />
 
@@ -12,7 +23,7 @@
 
 ---
 
-### 🚀 Engineering Philosophy
+###  Engineering Philosophy
 > "Building intelligent systems that scale, not just scripts that run."
 
 I am a **Computer Science Engineer** specializing in **Artificial Intelligence** and **Machine Learning**. My work focuses on bridging the gap between research and production—architecting robust **Multi-Agent Systems**, optimizing **LLM Inference**, and building **Scalable Backend Infrastructure** for AI applications.
@@ -23,12 +34,12 @@ I am a **Computer Science Engineer** specializing in **Artificial Intelligence**
 
 ---
 
-### 🛠️ Technical Infrastructure
+###  Technical Infrastructure
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <b>🧠 AI & Machine Learning</b><br/><br/>
+      <b> AI & Machine Learning</b><br/><br/>
       <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -38,7 +49,7 @@ I am a **Computer Science Engineer** specializing in **Artificial Intelligence**
       <img src="https://img.shields.io/badge/Groq-black?style=flat-square" />
     </td>
     <td align="center" width="33%">
-      <b>⚙️ Backend & Orchestration</b><br/><br/>
+      <b> Backend & Orchestration</b><br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
@@ -48,7 +59,7 @@ I am a **Computer Science Engineer** specializing in **Artificial Intelligence**
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <b>💻 Core Engineering</b><br/><br/>
+      <b> Core Engineering</b><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -62,16 +73,16 @@ I am a **Computer Science Engineer** specializing in **Artificial Intelligence**
 
 ---
 
-### 💎 Signature Engineering
+###  Signature Engineering
 
-#### 🏗️ [Showcase: AI-Driven Portfolio Engine](https://github.com/HiteshSingh21/Showcase)
+####  [Showcase: AI-Driven Portfolio Engine](https://github.com/HiteshSingh21/Showcase)
 > *Automated Portfolio Generation Pipeline*
 
 An enterprise-grade system that ingests raw resume data and orchestrates a generative pipeline to deploy high-fidelity portfolio websites.
 *   **Architecture:** Microservices (FastAPI) + Event-Driven Generation.
 *   **Tech:** Groq (LLM Inference), PostgreSQL (State Management), Next.js (SSR Frontend).
 
-#### 🤖 [Financial Intelligence Suite (fin-agents)](https://github.com/HiteshSingh21/fin-agents)
+####  [Financial Intelligence Suite (fin-agents)](https://github.com/HiteshSingh21/fin-agents)
 > *Autonomous Multi-Agent Market Research System*
 
 A sophisticated **Tri-Agent Architecture** designed to simulate a financial research team.
@@ -82,28 +93,15 @@ A sophisticated **Tri-Agent Architecture** designed to simulate a financial rese
     *   `Journalist`: Synthesis & report generation.
 *   **Stack:** LangGraph, Python 3.11+, Yahoo Finance API.
 
-```mermaid
-graph LR
-    subgraph Orchestration
-        Client -->|Request| Supervisor
-    end
-    subgraph Agentic_Layer
-        Supervisor -->|Delegate| Librarian
-        Supervisor -->|Delegate| Quant
-        Librarian -->|Data| Journalist
-        Quant -->|Analysis| Journalist
-    end
-    Journalist -->|Final Report| Client
-```
 
-#### 🎥 [Text-to-Animation Pipeline](https://github.com/HiteshSingh21/text-to-animation)
+####  [PokiDesk-AI-Sign-Language-Translator](https://github.com/HiteshSingh21/PokiDesk-AI-Sign-Language-Translator)
 > *Temporal Consistency Research*
 
-Researching generic consistency in diffusion models to create fluid frame-by-frame animations from textual prompts.
+Developed an AI-powered sign language translation system that uses computer vision and machine learning to recognize hand gestures and convert them into readable text in real time. The project focuses on improving accessibility by enabling seamless communication between hearing-impaired users and others through an intuitive gesture recognition pipeline.
 
 ---
 
-### 📊 GitHub Engineering Metrics
+###  GitHub Engineering Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HiteshSingh21&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" height="160" />
@@ -115,6 +113,9 @@ Researching generic consistency in diffusion models to create fluid frame-by-fra
 </div>
 
 ---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshSingh21&theme=tokyo-night&hide_border=true"/>
+
 
 <p align="center">
   <i>"I don't just write code; I design systems."</i>
