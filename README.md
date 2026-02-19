@@ -15,8 +15,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Multi-Agent+Systems;Building+Production-Grade+GenAI+Pipelines;Optimizing+High-Frequency+Inference+Engines;GSoC+2026+Aspirant+%7C+Open+Source+Engineering" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/hiteshsingh21"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:hiteshsingh.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="[https://linkedin.com/in/hiteshsingh21](https://www.linkedin.com/in/hitesh-singh-10b0a1322/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:hitesh.singh4560638@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://hiteshsingh21.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-%2310b981.svg?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   </p>
 </div>
