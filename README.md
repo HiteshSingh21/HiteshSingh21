@@ -1,74 +1,83 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:2c3e50,100:4ca1af&height=200&section=header&text=[Your%20Name]&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=4ca1af&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hitesh+Singh;AI+/+ML+Engineer;Building+Agentic+Systems;4th+Sem+@+KIIT+University" alt="Typing SVG" />
 
-  ## ⚡ [Your Role, e.g., Full Stack Developer] • [Specialty, e.g., LLM Ops] • [Specialty]
-  **[Key Tech 1] | [Key Tech 2] | [Key Tech 3] | [Key Tech 4]**
+  <p align="center">
+    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  </p>
 
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
-  [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
-  📍 **[Your Location]** | 📞 **[Your Phone]**
-
-  <br/>
-
-  ![Profile views](https://gpvc.arturio.dev/your-username)
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" />
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/stars/your-username?label=Stars&style=social" />
-  </a>
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0:2c3e50,100:4ca1af&height=100&section=header&text=Building%20the%20future%20with%20Generative%20AI&fontSize=25&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-> **Core Focus:** [Briefly describe your focus, e.g., Building scalable distributed systems and AI agents.]
+### 🚀 About Me
+- 🎓 **Undergraduate** in Computer Science & AI/ML at **KIIT University**.
+- 🤖 **Deep Learning Enthusiast** focusing on Agentic workflows and LLM orchestration.
+- 🛠️ **Full-Stack AI:** Building production-grade apps with **FastAPI**, **PostgreSQL**, and **Groq**.
+- 🎯 **Goal:** Designing scalable AI infrastructure for high-impact environments.
 
 ---
 
-### 🏆 Recent Wins
-* 🚀 **[Achievement 1]** — [Short description of the impact/result].
-* 💡 **[Achievement 2]** — [Mention a specific tech stack or tool used].
-* 🎓 **[Achievement 3]** — [Mention a workshop, certification, or event].
+### 🛠️ Tech Stack & Specialized Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / Machine Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **Backend & Cloud** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
+| **Frontend & Tools** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code) |
 
 ---
 
 ### 💎 Featured Projects
-* **[Project Name 1]** — [One line description] ([Tech 1] • [Tech 2])
-* **[Project Name 2]** — [One line description] ([Tech 1] • [Tech 2])
-* **[Project Name 3]** — [One line description] ([Tech 1] • [Tech 2])
+
+#### 🏗️ [Showcase](https://github.com/hiteshsingh/showcase)
+> **AI Portfolio Generator:** Converts resumes into production-ready portfolio websites.
+- **Stack:** Groq API, FastAPI, PostgreSQL, Next.js.
+- **Key Feature:** High-fidelity code generation with real-time UI previews.
+
+#### 📈 [Financial Research Multi-Agent System](https://github.com/hiteshsingh/fin-agents)
+> **Agentic Intelligence:** A tri-agent system (Librarian, Quant, Journalist) for automated market analysis.
+- **Stack:** LangGraph, Python, Yahoo Finance API.
+- **Outcome:** Generates deep-dive financial reports with zero human intervention.
+
+#### 🎥 [Text-to-Animation Engine](https://github.com/hiteshsingh/t2a)
+> **Generative Media:** Major project focusing on generating temporal consistency in AI animations.
+- **Stack:** Diffusion Models, PyTorch, FFmpeg.
 
 ---
 
-### 🚀 Highlights
-* **[Skill/Highlight 1]** with focus on [Specific Area].
-* **[Skill/Highlight 2]** including [Specific Tools] and [Outcome].
-* **[Skill/Highlight 3]** for [Target Audience/Problem].
-
----
-
-### 📊 GitHub Stats
+### 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Stats" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="180px" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
+---
+
+### 🏆 Recognitions
+- 🏅 **Hackathon Winner @ IIT Kharagpur:** Developed a Predictive Maintenance system for industrial IoT.
+- 🌟 **Open Source:** Actively preparing for **GSoC** and contributing to AI infrastructure.
+- ⚡ **Competitive Programming:** Proficient in DSA with a focus on C++ and Java.
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-bg=true&column=7" />
 </div>
 
 ---
 
-### 📫 Reach Me
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i> <br/>
+  <b>Let's collaborate on something meaningful.</b>
+</p>
