@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hitesh Singh </h1>
 
 <p align="center">
@@ -15,7 +14,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Multi-Agent+Systems;Building+Production-Grade+GenAI+Pipelines;Optimizing+High-Frequency+Inference+Engines;GSoC+2026+Aspirant+%7C+Open+Source+Engineering" alt="Typing SVG" />
 
   <p align="center">
-    <a href="[https://linkedin.com/in/hiteshsingh21](https://www.linkedin.com/in/hitesh-singh-10b0a1322/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://img.shields.io/badge/CGPA-9.59%2F10-blueviolet?style=for-the-badge"><img src="https://img.shields.io/badge/CGPA-9.59%2F10-blueviolet?style=for-the-badge" /></a>
+    <a href="https://www.linkedin.com/in/hitesh-singh-10b0a1322/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:hitesh.singh4560638@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://hiteshsingh21.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-%2310b981.svg?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   </p>
@@ -23,85 +23,81 @@
 
 ---
 
-###  Engineering Philosophy
+### 🏛️ Engineering Philosophy
 > "Building intelligent systems that scale, not just scripts that run."
 
-I am a **Computer Science Engineer** specializing in **Artificial Intelligence** and **Machine Learning**. My work focuses on bridging the gap between research and production—architecting robust **Multi-Agent Systems**, optimizing **LLM Inference**, and building **Scalable Backend Infrastructure** for AI applications.
+**CS Student @ KIIT (9.59 CGPA) | 5+ Years Java | Specializing in Agentic AI, RAG, and MCP.** I design deterministic, multi-agent systems tailored for open science and complex data-driven research.
 
-*   **Current Focus:** Agentic Orchestration & Distributed AI Systems.
-*   **Goal:** Contributing to high-impact Open Source projects (GSoC '26) like **LangChain**, **TensorFlow**, or **NumFOCUS**.
-*   **Core Competency:** Python Performance Optimization, System Design, and Algorithmic Efficiency.
+* **Current Focus:** Agentic Orchestration, Distributed AI Systems, and Model Context Protocol (MCP).
+* **Goal:** Contributing to high-impact Open Source projects for **GSoC '26** with a focus on **Genomics Standards (GA4GH)**, **Scientific Data Infrastructure (EMBL-EBI)**, and **Developer Productivity (Jenkins)**.
+* **Core Competency:** Python Performance Optimization, Enterprise Java Architecture, and Deterministic RAG Pipelines.
 
 ---
 
-###  Technical Infrastructure
+### 🛠️ Technical Infrastructure
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <b> AI & Machine Learning</b><br/><br/>
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+      <b> AI & Agentic Systems</b><br/><br/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCP-Protocol-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG-Retrieval-blue?style=flat-square" />
       <br/>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
       <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Groq-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/LlamaIndex-070A0F?style=flat-square&logo=LlamaIndex&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <b> Backend & Orchestration</b><br/><br/>
+      <b> Backend & Enterprise</b><br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Unit_Testing-critical?style=flat-square" />
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <b> Core Engineering</b><br/><br/>
+      <b> Languages & Core</b><br/><br/>
+      <img src="https://img.shields.io/badge/Java_(5y)-007396?style=flat-square&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-###  Signature Engineering
+### 🚀 Signature Engineering
 
-####  [Showcase: AI-Driven Portfolio Engine](https://github.com/HiteshSingh21/Showcase)
-> *Automated Portfolio Generation Pipeline*
-
-An enterprise-grade system that ingests raw resume data and orchestrates a generative pipeline to deploy high-fidelity portfolio websites.
-*   **Architecture:** Microservices (FastAPI) + Event-Driven Generation.
-*   **Tech:** Groq (LLM Inference), PostgreSQL (State Management), Next.js (SSR Frontend).
-
-####  [Financial Intelligence Suite (fin-agents)](https://github.com/HiteshSingh21/fin-agents)
+#### [Financial Intelligence Suite (fin-agents)](https://github.com/HiteshSingh21/fin-agents)
 > *Autonomous Multi-Agent Market Research System*
 
-A sophisticated **Tri-Agent Architecture** designed to simulate a financial research team.
-*   **Design Pattern:** Hierarchical Agent Teams (Supervisor -> Specialized Agents).
-*   **Agents:**
-    *   `Librarian`: Semantic Search & document retrieval.
-    *   `Quant`: Numerical analysis & market data processing.
-    *   `Journalist`: Synthesis & report generation.
-*   **Stack:** LangGraph, Python 3.11+, Yahoo Finance API.
+A sophisticated **Tri-Agent Architecture** focused on **deterministic data retrieval** and cross-verified research.
+* **Design Pattern:** Hierarchical Agent Teams (Librarian -> Quant -> Journalist).
+* **Logic:** Uses a RAG-based Librarian for semantic search, a Quant for numerical validation, and a Journalist for grounded synthesis to eliminate hallucinations.
+* **Stack:** LangGraph, Python 3.11+, Yahoo Finance API, FAISS.
 
+#### [Showcase: AI-Driven Portfolio Engine](https://github.com/HiteshSingh21/Showcase)
+> *Structured Data Extraction & Deployment Pipeline*
 
-####  [PokiDesk-AI-Sign-Language-Translator](https://github.com/HiteshSingh21/PokiDesk-AI-Sign-Language-Translator)
-> *Temporal Consistency Research*
+An enterprise-grade system that performs **high-fidelity metadata extraction** from resume data to orchestrate a generative pipeline for interactive websites.
+* **Architecture:** Microservices (FastAPI) + Event-Driven Generation.
+* **Tech:** Groq (LLM Inference), PostgreSQL (State Management), Next.js (SSR Frontend).
 
-Developed an AI-powered sign language translation system that uses computer vision and machine learning to recognize hand gestures and convert them into readable text in real time. The project focuses on improving accessibility by enabling seamless communication between hearing-impaired users and others through an intuitive gesture recognition pipeline.
+#### [PokiDesk-AI-Sign-Language-Translator](https://github.com/HiteshSingh21/PokiDesk-AI-Sign-Language-Translator)
+> *Temporal Consistency Research in Computer Vision*
+
+An AI-powered translation system using computer vision to recognize hand gestures in real time. Focused on improving accessibility through a gesture recognition pipeline that converts temporal sign sequences into readable text.
 
 ---
 
-###  GitHub Engineering Metrics
+### 📊 GitHub Engineering Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HiteshSingh21&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" height="160" />
