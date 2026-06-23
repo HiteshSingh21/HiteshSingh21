@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Multi-Agent+Systems;Building+Production-Grade+GenAI+Pipelines;Optimizing+High-Frequency+Inference+Engines;GSoC+2026+Aspirant+%7C+Open+Source+Engineering" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://img.shields.io/badge/CGPA-9.59%2F10-blueviolet?style=for-the-badge"><img src="https://img.shields.io/badge/CGPA-9.59%2F10-blueviolet?style=for-the-badge" /></a>
+    <a href="https://img.shields.io/badge/CGPA-9.13%2F10-blueviolet?style=for-the-badge"><img src="https://img.shields.io/badge/CGPA-9.13%2F10-blueviolet?style=for-the-badge" /></a>
     <a href="https://www.linkedin.com/in/hitesh-singh-10b0a1322/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:hitesh.singh4560638@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://hiteshsingh21.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-%2310b981.svg?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -26,7 +26,7 @@
 ### 🏛️ Engineering Philosophy
 > "Building intelligent systems that scale, not just scripts that run."
 
-**CS Student @ KIIT (9.59 CGPA) | 5+ Years Java | Specializing in Agentic AI, RAG, and MCP.** I design deterministic, multi-agent systems tailored for open science and complex data-driven research.
+**CS Student @ KIIT | 5+ Years Java | Specializing in Agentic AI, RAG, and MCP.** I design deterministic, multi-agent systems tailored for open science and complex data-driven research.
 
 * **Current Focus:** Agentic Orchestration, Distributed AI Systems, and Model Context Protocol (MCP).
 * **Goal:** Contributing to high-impact Open Source projects for **GSoC '26** with a focus on **Genomics Standards (GA4GH)**, **Scientific Data Infrastructure (EMBL-EBI)**, and **Developer Productivity (Jenkins)**.
